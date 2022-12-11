@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="Hello">
+        <value>Olá</value>
+    </data>
+    <data name="EmailMustBeGmail">
+        <value>'{0}' deve ser @gmail.com</value>
+    </data>
+</root>
